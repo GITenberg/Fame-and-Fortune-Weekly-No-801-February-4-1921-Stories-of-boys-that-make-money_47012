@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Fame and Fortune Weekly, No. 801, February 4, 1921
 
   Stories of boys that make money'
